@@ -3,4 +3,11 @@
     <string name="app_name">AndroidAssignment</string>
     <string name="hello_message">Makadini Nyika!</string>
     <string name="ButtonText">Ndiri Bhatani</string>
+    <string name="LoginText">Pinda</string>
+    <string name="LoginName">Zita Rokupinda</string>
+    <string name="PasswordText">Izwi Rokuzarura</string>
+    <string name="radiobutton">Rhedhio Bhatani</string>
+    <string name="checkbox">Bhokisi Rokumaka</string>
+    <string name="switch_text">Ichi choitei</string>
+    <string name="todo">kupinda mugaba</string>
 </resources>
